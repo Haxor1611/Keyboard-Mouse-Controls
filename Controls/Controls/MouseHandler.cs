@@ -21,27 +21,27 @@ namespace Controls
         private static extern bool SetCursorPos(int x, int y);  
         public void SendMouseClick(ControlKeys.MouseButtons button)
         {
-            mouse_event((uint)button, 0, 0, 0, 0);
+            mouse_event((uint)button, 0, 0, 0, 0);//send the mouse click
         }
         public bool isMouseButtonPressed(ControlKeys.MouseButtons button)
         {
-            return 0 != (GetAsyncKeyState((byte)button) & 0x8000);
+            return 0 != (GetAsyncKeyState((byte)button) & 0x8000);//0x8000 is the bitmask for the key being pressed
         }
         public void RelativeMove(int relx, int rely)
 		{
-			mouse_event(0x0001, relx, rely, 0, 0);
+			mouse_event(0x0001, relx, rely, 0, 0);//move the mouse
 		}
 
         public MousePoint GetCursorPosition()
         {
             MousePoint currentMousePoint;
             var gotPoint = GetCursorPos(out currentMousePoint);
-            if (!gotPoint) { currentMousePoint = new MousePoint(0, 0); }
+            if (!gotPoint) { currentMousePoint = new MousePoint(0, 0); }//if the mouse is not on the screen, return a point at 0,0
             return currentMousePoint;
         }
-        public void setCursorPosition(MousePoint mouse)
+        public void setCursorPosition(int x, int y)
         {
-            SetCursorPos(mouse.X, mouse.Y);
+            SetCursorPos(x,y);//set the cursor position
         }
 
         [StructLayout(LayoutKind.Sequential)]

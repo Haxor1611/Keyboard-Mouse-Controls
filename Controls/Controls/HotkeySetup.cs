@@ -18,6 +18,7 @@ namespace Controls
                 } else{
                     Thread.Sleep(10);
                 }
+                
             }
  
         }
