@@ -1,0 +1,19 @@
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\Test example.exe
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\Test example.deps.json
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\Test example.runtimeconfig.json
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\Test example.runtimeconfig.dev.json
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\Test example.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\ref\Test example.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\Test example.pdb
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\Controls.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\bin\Debug\net5.0\Controls.pdb
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.csproj.AssemblyReference.cache
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.AssemblyInfoInputs.cache
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.AssemblyInfo.cs
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.csproj.CoreCompileInputs.cache
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.csproj.CopyComplete
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\ref\Test example.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.pdb
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Test example\obj\Debug\net5.0\Test example.genruntimeconfig.cache

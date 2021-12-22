@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Test_example</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Controls\Controls.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Controls">
+      <HintPath>..\Controls\bin\Debug\net5.0\Controls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

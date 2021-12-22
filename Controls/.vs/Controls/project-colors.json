@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ab34541-6b1c-4090-a3cb-5c0f044fa9fd": {
+      "ProjectGuid": "5ab34541-6b1c-4090-a3cb-5c0f044fa9fd",
+      "DisplayName": "Controls",
+      "ColorIndex": 0
+    },
+    "37e2ea4d-52ed-404c-9ad6-3d923d0aa774": {
+      "ProjectGuid": "37e2ea4d-52ed-404c-9ad6-3d923d0aa774",
+      "DisplayName": "Test example",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

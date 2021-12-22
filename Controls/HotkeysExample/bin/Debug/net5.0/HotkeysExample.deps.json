@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HotkeysExample/1.0.0": {
+        "dependencies": {
+          "Controls": "1.0.0"
+        },
+        "runtime": {
+          "HotkeysExample.dll": {}
+        }
+      },
+      "Controls/1.0.0": {
+        "runtime": {
+          "Controls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotkeysExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Controls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

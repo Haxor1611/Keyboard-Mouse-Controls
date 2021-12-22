@@ -1,0 +1,12 @@
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\bin\Debug\net5.0\Controls.deps.json
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\bin\Debug\net5.0\Controls.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\bin\Debug\net5.0\ref\Controls.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\bin\Debug\net5.0\Controls.pdb
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\obj\Debug\net5.0\Controls.csproj.AssemblyReference.cache
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\obj\Debug\net5.0\Controls.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\obj\Debug\net5.0\Controls.AssemblyInfoInputs.cache
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\obj\Debug\net5.0\Controls.AssemblyInfo.cs
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\obj\Debug\net5.0\Controls.csproj.CoreCompileInputs.cache
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\obj\Debug\net5.0\Controls.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\obj\Debug\net5.0\ref\Controls.dll
+E:\CodingStuff\CheatsProject\Repos\Keyboard-Mouse-Controls\Controls\Controls\obj\Debug\net5.0\Controls.pdb

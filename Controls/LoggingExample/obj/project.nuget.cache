@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fS4OTKvFOn1qZoDMWpfsA9SvdeVgcJXl2a/+9PXcmRggXde2X1szfR5xgeGjgPgdCikHiUvTR0zP2K0jt5W+Cw==",
+  "success": true,
+  "projectFilePath": "E:\\CodingStuff\\CheatsProject\\Repos\\Keyboard-Mouse-Controls\\Controls\\LoggingExample\\LoggingExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
